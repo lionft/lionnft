@@ -1,0 +1,3 @@
+{
+  "sdkFolder": "C:/Users/biggie/AppData/Local/Android/sdk"
+}
